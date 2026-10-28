@@ -1,0 +1,101 @@
+id,date,type,location,description
+1,20120909,furto,City Street,"Um hóspede foi encontrado morto em seu quarto de hotel. Havia sinais de luta e sangue perto da cama."
+2,19920415,furto,Downtown Bank,"Uma maleta foi roubada durante um assalto. Um homem de terno foi visto saindo do local com ela."
+3,20010702,assassinato,Corner Café,"Um corpo foi encontrado atrás do café. Nenhuma testemunha relatou nada, mas havia uma ferida de faca nas costas."
+4,19980328,suborno,Metro Station,NULL
+5,20091113,furto,Park Avenue Office,"Uma maleta com documentos confidenciais foi roubada. Uma testemunha mencionou uma pessoa de blazer fugindo da cena."
+6,20050716,assassinato,Grand Hotel,"Um hóspede foi encontrado morto em seu quarto com sinais de crime. A porta estava trancada por dentro, sem sinais de arrombamento."
+7,19960205,furto,City Library,"Uma maleta contendo papéis confidenciais desapareceu. O ladrão foi capturado na câmera de segurança, usando uma jaqueta."
+8,20080422,suborno,Main Street Mall,NULL
+9,20110630,furto,Old Town Square,"Um homem foi visto fugindo com uma maleta. Ele tinha uma cicatriz na mão direita e usava um casaco."
+10,20031218,assassinato,Central Park,"O corpo de uma mulher foi descoberto no parque com sinais de estrangulamento. Uma testemunha viu um homem usando um boné perto da cena."
+11,20120909,furto,City Museum,"Uma maleta contendo artefatos valiosos foi levada. Um homem de sobretudo foi visto saindo da cena."
+12,20140512,furto,Airport Terminal,NULL
+13,19950521,assassinato,Museum of Modern Art,"Um artista proeminente foi encontrado morto em seu estúdio com múltiplas facadas. Nenhum suspeito foi identificado ainda."
+14,20060907,furto,Luxury Hotel,"Uma maleta foi roubada de um hóspede. O ladrão usava um terno escuro e tinha uma cicatriz na bochecha direita."
+15,19980211,furto,Subway Station,"Uma maleta desapareceu da plataforma. Um homem de jaqueta de couro foi visto com ela."
+16,20021225,suborno,Downtown Restaurant,NULL
+17,20160114,assassinato,University Library,"Um estudante foi encontrado morto perto da entrada da biblioteca. A causa da morte foi um tiro na cabeça."
+18,19910730,furto,Art Gallery,NULL
+19,20050710,assassinato,Beachside Hotel,"Um hóspede foi encontrado morto em seu quarto de hotel. Havia sinais de luta e sangue perto da cama."
+20,19990416,furto,City Plaza,"Uma maleta desapareceu após um evento. Nenhum suspeito claro foi identificado, mas um homem de casaco cinza foi visto na área."
+21,20080312,furto,Luxury Mall,"Uma maleta com bens valiosos foi roubada. O ladrão foi descrito usando uma jaqueta escura e tinha uma cicatriz visível."
+22,20100122,suborno,Highway Rest Stop,NULL
+23,20151203,assassinato,Coffee Shop,"Um barista foi encontrado morto atrás do balcão com um tiro. O suspeito foi visto saindo em um carro vermelho."
+24,20180418,suborno,City Hall,"Um oficial corrupto da cidade foi pego aceitando suborno. Uma fita de vídeo mostrou a transação em um escritório privado."
+25,20120719,furto,Warehouse District,NULL
+26,19980903,assassinato,Luxury Condo,"Um corpo foi descoberto em um apartamento de luxo. A vítima tinha múltiplos ferimentos por arma de fogo."
+27,20060522,furto,Shopping Mall,"Uma bolsa foi roubada da bolsa de uma mulher na praça de alimentação. Um homem de moletom vermelho foi visto na área."
+28,19941030,suborno,Corporate Office,"Um CEO foi visto aceitando pagamentos ilegais de um empreiteiro. O contrato foi posteriormente cancelado sob circunstâncias suspeitas."
+29,20150914,furto,Train Station,NULL
+30,20070426,suborno,Golf Club,"Um escândalo de suborno envolvendo vários oficiais de alto escalão no clube. Um vídeo surgiu mostrando a troca de dinheiro."
+31,20010212,assassinato,Dark Alley,"Um homem foi encontrado morto em um beco escuro com uma faca cravada no peito. Sem suspeitos ainda."
+32,20180125,furto,Bank Vault,"Um cofre de banco foi arrombado durante a noite. Câmeras de segurança foram adulteradas e o culpado permanece não identificado."
+33,19961118,assassinato,Luxury Yacht,NULL
+34,20030705,suborno,Subway Station,"Um suborno foi oferecido a um oficial do metrô em troca de pular a catraca. O oficial relatou o incidente imediatamente."
+35,19921221,furto,Fashion Boutique,"Um colar valendo milhares foi roubado durante um desfile de moda. Uma mulher foi vista saindo com ele na bolsa."
+36,20081008,assassinato,City Park,"Um corpo foi descoberto no parque. A vítima foi atropelada por um carro, e a polícia investiga se foi intencional."
+37,20150203,furto,Corporate Office,"Um laptop contendo segredos da empresa foi roubado de um escritório seguro. Sem sinais de arrombamento."
+38,19950627,furto,Luxury Mall,"Uma bolsa de grife foi roubada de uma vitrine. Um suspeito de terno foi visto nas imagens de vigilância."
+39,20030410,suborno,Construction Site,"Um empreiteiro foi subornado para ignorar violações de segurança. A transação foi capturada em câmera."
+40,20091206,furto,Parking Garage,"Um carro foi roubado de um estacionamento. Imagens de segurança mostram uma pessoa de moletom arrombando o veículo."
+41,20150722,assassinato,Street Corner,"Um jovem foi encontrado morto perto de uma rua movimentada. A polícia investiga a causa da morte, possivelmente relacionada a drogas."
+42,19980305,furto,Shopping Mall,"Uma maleta contendo dinheiro foi roubada de uma vitrine. Um suspeito de jaqueta vermelha foi visto perto da cena."
+43,20060119,suborno,Airport Lounge,"Uma comissária de bordo foi pega aceitando suborno para deixar passageiros burlarem a segurança."
+44,20171003,furto,Car Dealership,NULL
+45,20080409,assassinato,Night Club,"Um homem foi encontrado morto no banheiro da boate. A polícia investiga se foi um negócio de drogas que deu errado."
+46,20140822,suborno,Public Office,"Um oficial da cidade foi pego aceitando subornos de empreiteiros em troca de contratos governamentais."
+47,20031014,assassinato,Back Alley,"Uma mulher foi encontrada morta com o pescoço quebrado. Nenhuma testemunha estava presente e nenhum suspeito foi identificado."
+48,20151209,furto,Restaurant,"A bolsa de uma mulher foi roubada enquanto ela jantava. Um homem de jaqueta preta foi visto perto da mesa."
+49,19990217,suborno,Government Building,"Um político foi pego recebendo subornos de um lobista. O acordo foi ouvido por um guarda de segurança."
+50,20100115,furto,Jewelry Store,"Um anel de diamante foi roubado de uma joalheria de luxo. O ladrão usava um casaco preto e luvas."
+51,20090222,suborno,Courtroom,NULL
+52,20061214,assassinato,Luxury Hotel,"Um empresário foi encontrado morto em seu quarto de hotel. A polícia suspeita de crime, mas nenhum suspeito foi nomeado ainda."
+53,19980718,furto,Art Gallery,"Uma pintura valiosa foi roubada durante uma exposição. Uma mulher de vestido vermelho foi vista saindo da galeria."
+54,20080304,suborno,Construction Site,NULL
+55,19971005,assassinato,City Hospital,"Uma enfermeira foi encontrada morta em um depósito do hospital. A polícia investiga o envolvimento de funcionários."
+56,20011117,suborno,Financial District,"Um corretor foi pego subornando clientes para inflar seus investimentos."
+57,20070315,furto,Corporate Office,"Um laptop da empresa com informações confidenciais foi roubado. Um homem de terno foi visto saindo do escritório com ele."
+58,20130321,assassinato,City Street,NULL
+59,20141011,furto,Airport Terminal,"A mala de um passageiro foi trocada com outra no terminal. O suspeito usava uma camisa vermelha."
+60,20100518,suborno,Public Office,"Um oficial foi pego aceitando subornos para aprovar um projeto de construção sem inspeção adequada."
+61,19941122,assassinato,City Bar,"Um homem foi encontrado morto após uma briga em um bar local. O suspeito fugiu da cena."
+62,20050329,furto,Luxury Mall,"A bolsa de uma mulher foi roubada de uma loja de luxo. Um homem de jaqueta cinza foi visto saindo com ela."
+63,20170704,assassinato,Restaurant,"Um chef foi encontrado morto na cozinha. Sem ferimentos óbvios, mas há suspeita de crime."
+64,20020301,suborno,Construction Site,"Um empreiteiro foi subornado para ignorar violações de segurança em um novo projeto de construção."
+65,19830715,furto,West Hollywood Records,"Um disco de vinil valioso foi roubado da loja durante uma noite movimentada."
+66,20121118,furto,Casino,"Um homem foi visto pegando fichas de uma mesa desprotegida. O suspeito usava um moletom preto."
+67,19990514,assassinato,City Park,"Um corpo foi descoberto perto do banco do parque. A causa da morte foi um tiro."
+68,20190906,suborno,University,"Um professor foi pego aceitando subornos de alunos em troca de notas melhores."
+69,20071220,furto,Train Station,"Um homem roubou uma mala de um passageiro na estação de trem. O suspeito usava jaqueta e chapéu."
+70,19990410,assassinato,Street Corner,NULL
+71,20080111,furto,Restaurant,"Uma bolsa foi roubada enquanto a vítima jantava. O suspeito foi visto saindo rapidamente."
+72,20180228,suborno,Municipal Office,"Um oficial da cidade foi visto aceitando dinheiro de um empreiteiro local para acelerar seus projetos."
+73,20030504,furto,Library,"Um livro raro foi roubado da biblioteca. O suspeito foi visto entrando e saindo da área restrita."
+74,20160622,assassinato,Downtown Alley,"Uma mulher foi encontrada morta em um beco com sinais de trauma por objeto contundente na cabeça."
+75,19930310,furto,Parking Lot,NULL
+76,19851120,furto,Blue Note Lounge,"Uma maleta contendo documentos confidenciais desapareceu. Uma testemunha relatou um homem de sobretudo com uma cicatriz na bochecha esquerda fugindo da cena."
+77,20151019,assassinato,Office Building,"Um gerente foi encontrado morto em seu escritório. A polícia suspeita que uma disputa no trabalho pode ter levado ao assassinato."
+78,20110225,furto,Art Auction,"Uma pintura foi roubada durante um leilão. O ladrão foi visto fugindo da cena."
+79,19980507,suborno,Medical Center,NULL
+80,20091229,furto,Airport Security,"Uma bolsa contendo itens valiosos foi roubada durante a verificação de segurança."
+81,19941021,assassinato,Rooftop Bar,"Um homem foi encontrado morto após uma discussão com outro cliente. Nenhuma arma foi encontrada na cena."
+82,20081116,furto,Corporate Office,"Um laptop com informações confidenciais foi roubado. Sem sinais de arrombamento, mas um suspeito de terno foi visto."
+83,20030613,suborno,Hospital,"Um médico foi pego aceitando dinheiro para fornecer laudos médicos falsos para seguros."
+84,20150607,assassinato,Woods,"Um corpo foi descoberto na floresta com um ferimento de bala no peito. A polícia ainda procura suspeitos."
+85,20081005,furto,Shopping Mall,"Uma carteira foi roubada de um comprador. O ladrão foi capturado na câmera usando um boné."
+86,20131011,suborno,City Council,"Um vereador foi pego aceitando subornos para aprovar leis de zoneamento."
+87,20180503,furto,Luxury Store,"Um homem foi visto pegando uma pulseira sem pagar."
+88,19921214,assassinato,Train Station,"Um corpo foi encontrado perto dos trilhos. Investigadores acreditam que pode ter sido acidente ou crime."
+89,20070911,suborno,Corporate Office,NULL
+90,20140206,furto,Tech Conference,"Um laptop foi roubado durante a conferência. Um homem de moletom preto foi visto saindo da área."
+91,20100817,furto,Bookstore,"Um livro de edição rara foi roubado da vitrine de uma livraria."
+92,19970103,suborno,Police Station,"Um policial foi pego aceitando subornos de criminosos locais para ignorar suas atividades."
+93,20091129,assassinato,House,"Um corpo foi encontrado em uma casa com sinais de estrangulamento."
+94,19960521,furto,Gallery,"Uma pintura foi roubada durante uma exposição."
+95,20131028,suborno,Post Office,"Um funcionário dos correios foi pego aceitando dinheiro para adulterar correspondências."
+96,20080303,assassinato,Lakeside,NULL
+97,20030512,furto,Gas Station,"Um caixa foi roubado à mão armada. O ladrão levou o dinheiro do caixa registrador."
+98,20150717,suborno,School,"Um professor foi pego aceitando subornos de pais para dar notas melhores a seus filhos."
+99,20090611,furto,Construction Site,"Um caminhão cheio de equipamentos foi roubado de um canteiro de obras."
+100,20180320,assassinato,Club,"Um homem foi morto durante uma briga dentro de uma boate. O suspeito foi visto saindo da cena."

@@ -1,0 +1,101 @@
+id,crime_scene_id,clue
+1,66,"Houve um estrondo e depois vi uma pessoa de jaqueta de couro fugindo."
+2,78,"Vi uma mulher usando um cachecol vermelho andando perto da cena."
+3,44,NULL
+4,75,"Vi uma pessoa de jaqueta azul parada perto da cena do crime."
+5,89,"Havia um carro preto estacionado por perto, acho que tinha vidros escuros."
+6,35,"O suspeito tinha uma cicatriz na bochecha esquerda e usava um boné preto."
+7,55,NULL
+8,12,"Lembro de ouvir passos atrás de mim, mas não virei."
+9,44,NULL
+10,78,"Vi um homem correndo com uma maleta, parecendo muito suspeito."
+11,102,"Notei uma mulher de vestido verde saindo da cena."
+12,67,"Havia um carro esportivo vermelho estacionado perto do beco quando passei."
+13,94,NULL
+14,33,"O suspeito usava uma jaqueta de couro e carregava uma bolsa."
+15,53,"Ouvi um estrondo antes de ver um homem saindo rapidamente do prédio."
+16,81,NULL
+17,25,"Uma pessoa com uma bandana amarela foi vista saindo da área."
+18,99,"Vi uma van preta estacionada em frente ao prédio na hora do crime."
+19,56,NULL
+20,14,"O ladrão segurava um objeto brilhante enquanto corria pela rua."
+21,88,"Lembro de uma mulher de vestido vermelho andando em direção ao prédio pouco antes do crime."
+22,101,NULL
+23,63,"Um homem suspeito de sobretudo estava rondando perto da cena do crime."
+24,42,"Notei uma pessoa usando um moletom preto entrando no prédio pouco antes do crime."
+25,92,NULL
+26,27,"Vi alguém saindo da cena com uma bolsa de lona."
+27,48,"O suspeito tinha um anel de prata no dedo e estava falando com alguém ao telefone."
+28,65,"Vi um homem usando uma bandana vermelha saindo apressado da loja."
+29,39,NULL
+30,59,"Vi um homem com uma bandana azul e óculos de sol na área."
+31,83,NULL
+32,28,"Um homem suspeito de moletom cinza foi visto saindo do local rapidamente."
+33,77,"Lembro de ver uma pessoa com uma maleta correndo em direção à saída."
+34,49,NULL
+35,19,"Vi uma pessoa com uma tatuagem distinta no pescoço perto da cena."
+36,18,"O suspeito tinha uma mochila preta e andava muito rápido."
+37,24,NULL
+38,9,"Vi um homem com uma corrente de ouro no pescoço perto da cena do crime."
+39,74,"Havia uma mulher de vestido preto perto da cena quando aconteceu."
+40,95,NULL
+41,40,"Ouvi alguém gritar e depois vi uma pessoa de casaco branco correndo."
+42,31,NULL
+43,61,"Uma pessoa de chapéu vermelho foi vista saindo rapidamente do prédio."
+44,76,NULL
+45,51,"Notei uma pessoa de jaqueta de couro andando em direção ao beco."
+46,86,"Vi uma pessoa de boné azul passando logo após o incidente."
+47,62,NULL
+48,41,"Uma pessoa com uma bolsa de lona preta passou correndo por mim logo após o crime."
+49,13,NULL
+50,57,"Vi uma pessoa usando um sobretudo escuro entrando no prédio."
+51,50,NULL
+52,80,"Havia um carro prateado estacionado perto da cena do crime quando aconteceu."
+53,98,"Notei uma pessoa com um cachecol azul andando rapidamente pela rua."
+54,4,NULL
+55,46,"Vi uma mulher de vestido vermelho descendo as escadas correndo logo após o incidente."
+56,93,"Vi um homem com uma cicatriz no rosto parado perto do prédio."
+57,70,"Uma pessoa usando uma jaqueta de couro marrom foi vista perto da cena do crime."
+58,103,NULL
+59,71,"Notei um sedã preto estacionado perto da entrada do prédio."
+60,2,NULL
+61,100,"Vi um homem usando um chapéu cinza parado por perto quando o crime ocorreu."
+62,32,"Uma pessoa com uma mochila vermelha estava perto da cena pouco antes do crime."
+63,60,NULL
+64,69,"Vi uma pessoa de casaco preto saindo do prédio com uma bolsa de lona."
+65,55,NULL
+66,20,"Notei um homem de jaqueta amarela saindo da cena do crime."
+67,64,"Um homem de boné preto foi visto parado perto da cena do crime."
+68,21,NULL
+69,45,"Vi uma pessoa de jaqueta cinza correndo da cena do crime."
+70,82,"Uma mulher de vestido branco foi vista perto da cena quando o crime ocorreu."
+71,73,NULL
+72,30,"Lembro de ver um homem de moletom preto saindo do prédio."
+73,58,"Uma pessoa de jaqueta preta estava parada perto da porta pouco antes do crime."
+74,15,NULL
+75,65,"O que mais lembro é que ele tinha um relógio de ouro distinto no pulso."
+76,17,"Um homem de jaqueta azul saiu correndo com uma bolsa após o crime."
+77,60,NULL
+78,79,"Notei uma pessoa de chapéu verde parada em frente ao prédio."
+79,38,NULL
+80,22,"Vi uma pessoa com um colar de prata andando rapidamente pela rua."
+81,68,"Uma mulher de vestido roxo estava perto da cena durante o incidente."
+82,26,NULL
+83,7,"Vi uma pessoa de jaqueta preta e chapéu perto da cena do crime."
+84,47,"Lembro de ver uma pessoa de casaco branco saindo rapidamente do prédio."
+85,23,NULL
+86,3,"Vi uma pessoa com um cachecol vermelho andando perto da cena do crime."
+87,36,"Notei um homem usando um moletom cinza e uma mochila preta perto da cena do crime."
+88,68,NULL
+89,29,"Vi uma mulher de vestido amarelo saindo do prédio."
+90,12,"Vi um homem com uma tatuagem distinta no pescoço saindo da cena."
+91,10,NULL
+92,5,"Notei uma pessoa de jaqueta branca perto da cena do crime pouco antes de acontecer."
+93,43,"Um homem de sobretudo preto foi visto perto do beco durante o crime."
+94,34,NULL
+95,11,"Vi um homem de boné vermelho parado perto da cena quando o crime ocorreu."
+96,27,"Notei uma pessoa de terno escuro perto da cena do crime."
+97,42,NULL
+98,18,"Vi uma pessoa de jaqueta preta parada perto do prédio quando o crime aconteceu."
+99,74,"Uma pessoa de casaco verde foi vista saindo da área logo após o crime."
+100,84,NULL
